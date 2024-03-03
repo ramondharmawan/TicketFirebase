@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219379804456",
+    "project_id": "ticket-bikin",
+    "storage_bucket": "ticket-bikin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219379804456:android:66d99166beb28d125ac81d",
+        "android_client_info": {
+          "package_name": "com.example.ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexTCSJsvtkoqB7NizsLUQK6JYh19zxaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
